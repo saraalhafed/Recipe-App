@@ -11,4 +11,4 @@ createRoot(document.getElementById('root')).render(
 /* every thing inside the file gitignore will not tracked by github , automaticly all the libraries or package wich take alot of space will be inside it */
 /* i creat a file .env to protact my App-key and App-ID */
 
-/* .env : to protact my data  */
+/* .env : to protact my data from still, */
